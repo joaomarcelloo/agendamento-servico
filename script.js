@@ -1,4 +1,4 @@
-const SHEETDB_URL = "https://sheetdb.io/api/v1/aiayxuskwqel9";
+const SHEETDB_URL = "https://sheetdb.io/api/v1/2b92rwyzwn6od";
 let numeroWhatsApp = "5532999537062";
 
 const $ = (id) => document.getElementById(id);
